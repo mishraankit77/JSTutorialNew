@@ -1,1 +1,1 @@
-console.log(valueInNumber);
+console.log(typeof myDate);
